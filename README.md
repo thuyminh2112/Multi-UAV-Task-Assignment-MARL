@@ -50,6 +50,15 @@ The MARL-based approach achieves:
 [Download Demo Video](https://github.com/thuyminh2112/Multi-UAV-Task-Assignment-MARL/blob/main/animated_plot_1.mp4)
 
 ---
+## Environment
+```python
+pip install -r requirements.txt
+```
+## Run the model
+```python
+python main.py
+```
+
 
 ## 🛠 Tech Stack
 
