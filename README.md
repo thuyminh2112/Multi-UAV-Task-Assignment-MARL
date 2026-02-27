@@ -47,6 +47,8 @@ The MARL-based approach achieves:
 ### Task assignment
 <img src="frame_0195.png" width="600"/>
 
+[Download Demo Video](https://github.com/thuyminh2112/Multi-UAV-Task-Assignment-MARL/blob/main/animated_plot_1.mp4)
+
 ---
 
 ## 🛠 Tech Stack
